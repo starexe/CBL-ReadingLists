@@ -27,7 +27,7 @@
 <Book Series="All-American Comics" Number="61" Volume="1939" Year="1944">
 <Database Name="cv" Series="20663" Issue="132048" />
 </Book>
-<Book Series="DC Special" Number="29" Volume="1975" Year="1977">
+<Book Series="DC Special" Number="29" Volume="1968" Year="1968">
 <Database Name="cv" Series="2730" Issue="17644" />
 </Book>
 <Book Series="Superman" Number="45" Volume="1939" Year="1947">
@@ -408,25 +408,25 @@
 <Book Series="Metal Men" Number="18" Volume="1963" Year="1966">
 <Database Name="cv" Series="2113" Issue="8346" />
 </Book>
-<Book Series="Deadman" Number="1" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="26559" />
 </Book>
-<Book Series="Deadman" Number="2" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="2" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="26651" />
 </Book>
-<Book Series="Deadman" Number="3" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="3" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="26746" />
 </Book>
-<Book Series="Deadman" Number="4" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="4" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="26840" />
 </Book>
-<Book Series="Deadman" Number="5" Volume="1986" Year="1985">
+<Book Series="Deadman" Number="5" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="25836" />
 </Book>
-<Book Series="Deadman" Number="6" Volume="1986" Year="1985">
+<Book Series="Deadman" Number="6" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="25928" />
 </Book>
-<Book Series="Deadman" Number="7" Volume="1986" Year="1985">
+<Book Series="Deadman" Number="7" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="26034" />
 </Book>
 <Book Series="Deadman" Number="1" Volume="1986" Year="1986">
@@ -798,7 +798,7 @@
 <Book Series="Batman" Number="232" Volume="1940" Year="1971">
 <Database Name="cv" Series="796" Issue="11463" />
 </Book>
-<Book Series="House of Secrets" Number="92" Volume="1969" Year="1971">
+<Book Series="House of Secrets" Number="92" Volume="1956" Year="1971">
 <Database Name="cv" Series="2435" Issue="11470" />
 </Book>
 <Book Series="Batman" Number="234" Volume="1940" Year="1971">
@@ -981,22 +981,22 @@
 <Book Series="The Forever People" Number="8" Volume="1971" Year="1972">
 <Database Name="cv" Series="2501" Issue="12094" />
 </Book>
-<Book Series="The New Gods" Number="1" Volume="1971" Year="1971">
+<Book Series="New Gods" Number="1" Volume="1971" Year="1971">
 <Database Name="cv" Series="2505" Issue="11260" />
 </Book>
-<Book Series="The New Gods" Number="2" Volume="1971" Year="1971">
+<Book Series="New Gods" Number="2" Volume="1971" Year="1971">
 <Database Name="cv" Series="2505" Issue="11360" />
 </Book>
-<Book Series="The New Gods" Number="3" Volume="1971" Year="1971">
+<Book Series="New Gods" Number="3" Volume="1971" Year="1971">
 <Database Name="cv" Series="2505" Issue="11473" />
 </Book>
-<Book Series="The New Gods" Number="4" Volume="1971" Year="1971">
+<Book Series="New Gods" Number="4" Volume="1971" Year="1971">
 <Database Name="cv" Series="2505" Issue="11585" />
 </Book>
-<Book Series="The New Gods" Number="5" Volume="1971" Year="1971">
+<Book Series="New Gods" Number="5" Volume="1971" Year="1971">
 <Database Name="cv" Series="2505" Issue="11704" />
 </Book>
-<Book Series="The New Gods" Number="6" Volume="1971" Year="1972">
+<Book Series="New Gods" Number="6" Volume="1971" Year="1972">
 <Database Name="cv" Series="2505" Issue="11829" />
 </Book>
 <Book Series="Mister Miracle" Number="1" Volume="1971" Year="1971">
@@ -1026,19 +1026,19 @@
 <Book Series="The Forever People" Number="11" Volume="1971" Year="1972">
 <Database Name="cv" Series="2501" Issue="12442" />
 </Book>
-<Book Series="The New Gods" Number="7" Volume="1971" Year="1972">
+<Book Series="New Gods" Number="7" Volume="1971" Year="1972">
 <Database Name="cv" Series="2505" Issue="11975" />
 </Book>
-<Book Series="The New Gods" Number="8" Volume="1971" Year="1972">
+<Book Series="New Gods" Number="8" Volume="1971" Year="1972">
 <Database Name="cv" Series="2505" Issue="12101" />
 </Book>
-<Book Series="The New Gods" Number="9" Volume="1971" Year="1972">
+<Book Series="New Gods" Number="9" Volume="1971" Year="1972">
 <Database Name="cv" Series="2505" Issue="12247" />
 </Book>
-<Book Series="The New Gods" Number="10" Volume="1971" Year="1972">
+<Book Series="New Gods" Number="10" Volume="1971" Year="1972">
 <Database Name="cv" Series="2505" Issue="12395" />
 </Book>
-<Book Series="The New Gods" Number="11" Volume="1971" Year="1972">
+<Book Series="New Gods" Number="11" Volume="1971" Year="1972">
 <Database Name="cv" Series="2505" Issue="12544" />
 </Book>
 <Book Series="Mister Miracle" Number="7" Volume="1971" Year="1972">
@@ -1158,7 +1158,7 @@
 <Book Series="Detective Comics" Number="450" Volume="1937" Year="1975">
 <Database Name="cv" Series="18058" Issue="112752" />
 </Book>
-<Book Series="Joker" Number="1" Volume="2008" Year="2008">
+<Book Series="The Joker" Number="1" Volume="1975" Year="1975">
 <Database Name="cv" Series="23571" Issue="141427" />
 </Book>
 <Book Series="1st Issue Special" Number="7" Volume="1975" Year="1975">
@@ -1398,7 +1398,7 @@
 <Book Series="The Flash" Number="284" Volume="1959" Year="1980">
 <Database Name="cv" Series="1995" Issue="20280" />
 </Book>
-<Book Series="Superboy" Number="5" Volume="1994" Year="1994">
+<Book Series="New Adventures of Superboy" Number="5" Volume="1980" Year="1980">
 <Database Name="cv" Series="5261" Issue="39188" />
 </Book>
 <Book Series="Action Comics" Number="507" Volume="1938" Year="1980">
@@ -1788,43 +1788,43 @@
 <Book Series="Tales of the Teen Titans" Number="41" Volume="1984" Year="1984">
 <Database Name="cv" Series="3324" Issue="24172" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="20" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="20" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261278" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="21" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="21" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261279" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="22" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="22" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261280" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="23" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="23" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261281" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="24" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="24" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261282" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="25" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="25" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261283" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="26" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="26" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261285" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="27" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="27" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261286" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="28" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="28" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261287" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="29" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="29" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261288" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="30" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="30" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261289" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="31" Volume="1982" Year="1984">
+<Book Series="Swamp Thing" Number="31" Volume="1982" Year="1982">
 <Database Name="cv" Series="38005" Issue="261290" />
 </Book>
-<Book Series="Swamp Thing Annual" Number="2" Volume="1985" Year="1985">
+<Book Series="Swamp Thing Annual" Number="2" Volume="1982" Year="1985">
 <Database Name="cv" Series="3466" Issue="25552" />
 </Book>
 <Book Series="DC Comics Presents" Number="71" Volume="1978" Year="1984">
@@ -1920,40 +1920,40 @@
 <Book Series="Tales of the Legion of Super-Heroes" Number="325" Volume="1984" Year="1985">
 <Database Name="cv" Series="20776" Issue="125645" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="32" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="32" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261291" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="33" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="33" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261292" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="34" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="34" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261293" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="35" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="35" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261294" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="36" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="36" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261295" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="37" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="37" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261296" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="38" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="38" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261297" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="39" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="39" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261298" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="40" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="40" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261299" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="41" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="41" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261300" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="42" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="42" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261301" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="43" Volume="1982" Year="1985">
+<Book Series="Swamp Thing" Number="43" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261302" />
 </Book>
 <Book Series="Green Lantern" Number="188" Volume="1960" Year="1985">
@@ -2073,10 +2073,10 @@
 <Book Series="DC Comics Presents" Number="86" Volume="1978" Year="1985">
 <Database Name="cv" Series="2943" Issue="25927" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="44" Volume="1982" Year="1986">
+<Book Series="Swamp Thing" Number="44" Volume="1982" Year="1986">
 <Database Name="cv" Series="38005" Issue="261303" />
 </Book>
-<Book Series="The Saga of Swamp Thing" Number="45" Volume="1982" Year="1986">
+<Book Series="Swamp Thing" Number="45" Volume="1982" Year="1986">
 <Database Name="cv" Series="38005" Issue="261304" />
 </Book>
 <Book Series="Wonder Woman" Number="328" Volume="1942" Year="1985">
@@ -2115,7 +2115,7 @@
 <Book Series="Infinity, Inc." Number="22" Volume="1984" Year="1986">
 <Database Name="cv" Series="3308" Issue="26354" />
 </Book>
-<Book Series="Swamp Thing" Number="46" Volume="1986" Year="1986">
+<Book Series="Swamp Thing" Number="46" Volume="1982" Year="1986">
 <Database Name="cv" Series="3465" Issue="26575" />
 </Book>
 <Book Series="Crisis on Infinite Earths" Number="6" Volume="1985" Year="1985">
@@ -2157,7 +2157,7 @@
 <Book Series="DC Comics Presents" Number="88" Volume="1978" Year="1985">
 <Database Name="cv" Series="2943" Issue="26140" />
 </Book>
-<Book Series="Justice League of America Annual" Number="3" Volume="1983" Year="1985">
+<Book Series="Justice League of America Annual" Number="3" Volume="1960" Year="1985">
 <Database Name="cv" Series="23371" Issue="140268" />
 </Book>
 <Book Series="Crisis on Infinite Earths" Number="9" Volume="1985" Year="1985">
@@ -2196,16 +2196,16 @@
 <Book Series="Superman" Number="415" Volume="1939" Year="1986">
 <Database Name="cv" Series="773" Issue="26366" />
 </Book>
-<Book Series="Swamp Thing" Number="47" Volume="1986" Year="1986">
+<Book Series="Swamp Thing" Number="47" Volume="1982" Year="1986">
 <Database Name="cv" Series="3465" Issue="26666" />
 </Book>
-<Book Series="Swamp Thing" Number="48" Volume="1986" Year="1986">
+<Book Series="Swamp Thing" Number="48" Volume="1982" Year="1986">
 <Database Name="cv" Series="3465" Issue="26763" />
 </Book>
-<Book Series="Swamp Thing" Number="49" Volume="1986" Year="1986">
+<Book Series="Swamp Thing" Number="49" Volume="1982" Year="1986">
 <Database Name="cv" Series="3465" Issue="26856" />
 </Book>
-<Book Series="Swamp Thing" Number="50" Volume="1986" Year="1986">
+<Book Series="Swamp Thing" Number="50" Volume="1982" Year="1986">
 <Database Name="cv" Series="3465" Issue="26959" />
 </Book>
 <Book Series="Superman" Number="423" Volume="1939" Year="1986">
